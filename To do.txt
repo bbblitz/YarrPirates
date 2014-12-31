@@ -1,0 +1,25 @@
+Add companions
+	-RTS system
+	-Customizeable
+Player armor
+Player weapons
+player addons
+DONE - pickstuffup left mouse rotate
+rope
+winch-type object
+sails
+water-dynamics
+CANCELED - combat slow-mo
+Moar cannons n' stuff
+companion mineing
+DONE - buying/selling
+ocean
+DONE - goods
+boat repair packs
+boat armor?
+metal mineing & refineing
+A cool derma skin
+Get a graphic designer to do the website
+Aquire server
+Add more commoditys
+Add more types of wood
